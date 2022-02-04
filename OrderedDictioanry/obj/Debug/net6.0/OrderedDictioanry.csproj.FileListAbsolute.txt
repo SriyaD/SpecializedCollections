@@ -1,0 +1,14 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\OrderedDictioanry\bin\Debug\net6.0\OrderedDictioanry.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\OrderedDictioanry\bin\Debug\net6.0\OrderedDictioanry.deps.json
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\OrderedDictioanry\bin\Debug\net6.0\OrderedDictioanry.runtimeconfig.json
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\OrderedDictioanry\bin\Debug\net6.0\OrderedDictioanry.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\OrderedDictioanry\bin\Debug\net6.0\ref\OrderedDictioanry.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\OrderedDictioanry\bin\Debug\net6.0\OrderedDictioanry.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\OrderedDictioanry\obj\Debug\net6.0\OrderedDictioanry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\OrderedDictioanry\obj\Debug\net6.0\OrderedDictioanry.AssemblyInfoInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\OrderedDictioanry\obj\Debug\net6.0\OrderedDictioanry.AssemblyInfo.cs
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\OrderedDictioanry\obj\Debug\net6.0\OrderedDictioanry.csproj.CoreCompileInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\OrderedDictioanry\obj\Debug\net6.0\OrderedDictioanry.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\OrderedDictioanry\obj\Debug\net6.0\ref\OrderedDictioanry.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\OrderedDictioanry\obj\Debug\net6.0\OrderedDictioanry.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\OrderedDictioanry\obj\Debug\net6.0\OrderedDictioanry.genruntimeconfig.cache

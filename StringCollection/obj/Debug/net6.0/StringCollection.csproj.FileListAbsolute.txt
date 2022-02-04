@@ -1,0 +1,14 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\StringCollection\bin\Debug\net6.0\StringCollection.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\StringCollection\bin\Debug\net6.0\StringCollection.deps.json
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\StringCollection\bin\Debug\net6.0\StringCollection.runtimeconfig.json
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\StringCollection\bin\Debug\net6.0\StringCollection.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\StringCollection\bin\Debug\net6.0\ref\StringCollection.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\StringCollection\bin\Debug\net6.0\StringCollection.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\StringCollection\obj\Debug\net6.0\StringCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\StringCollection\obj\Debug\net6.0\StringCollection.AssemblyInfoInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\StringCollection\obj\Debug\net6.0\StringCollection.AssemblyInfo.cs
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\StringCollection\obj\Debug\net6.0\StringCollection.csproj.CoreCompileInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\StringCollection\obj\Debug\net6.0\StringCollection.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\StringCollection\obj\Debug\net6.0\ref\StringCollection.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\StringCollection\obj\Debug\net6.0\StringCollection.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\StringCollection\obj\Debug\net6.0\StringCollection.genruntimeconfig.cache

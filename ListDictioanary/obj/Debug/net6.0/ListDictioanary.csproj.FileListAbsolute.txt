@@ -1,0 +1,15 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\ListDictioanary\bin\Debug\net6.0\ListDictioanary.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\ListDictioanary\bin\Debug\net6.0\ListDictioanary.deps.json
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\ListDictioanary\bin\Debug\net6.0\ListDictioanary.runtimeconfig.json
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\ListDictioanary\bin\Debug\net6.0\ListDictioanary.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\ListDictioanary\bin\Debug\net6.0\ref\ListDictioanary.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\ListDictioanary\bin\Debug\net6.0\ListDictioanary.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\ListDictioanary\obj\Debug\net6.0\ListDictioanary.csproj.AssemblyReference.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\ListDictioanary\obj\Debug\net6.0\ListDictioanary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\ListDictioanary\obj\Debug\net6.0\ListDictioanary.AssemblyInfoInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\ListDictioanary\obj\Debug\net6.0\ListDictioanary.AssemblyInfo.cs
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\ListDictioanary\obj\Debug\net6.0\ListDictioanary.csproj.CoreCompileInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\ListDictioanary\obj\Debug\net6.0\ListDictioanary.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\ListDictioanary\obj\Debug\net6.0\ref\ListDictioanary.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\ListDictioanary\obj\Debug\net6.0\ListDictioanary.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\ListDictioanary\obj\Debug\net6.0\ListDictioanary.genruntimeconfig.cache

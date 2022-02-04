@@ -1,0 +1,15 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\NameValueCollection\bin\Debug\net6.0\NameValueCollection.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\NameValueCollection\bin\Debug\net6.0\NameValueCollection.deps.json
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\NameValueCollection\bin\Debug\net6.0\NameValueCollection.runtimeconfig.json
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\NameValueCollection\bin\Debug\net6.0\NameValueCollection.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\NameValueCollection\bin\Debug\net6.0\ref\NameValueCollection.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\NameValueCollection\bin\Debug\net6.0\NameValueCollection.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\NameValueCollection\obj\Debug\net6.0\NameValueCollection.csproj.AssemblyReference.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\NameValueCollection\obj\Debug\net6.0\NameValueCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\NameValueCollection\obj\Debug\net6.0\NameValueCollection.AssemblyInfoInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\NameValueCollection\obj\Debug\net6.0\NameValueCollection.AssemblyInfo.cs
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\NameValueCollection\obj\Debug\net6.0\NameValueCollection.csproj.CoreCompileInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\NameValueCollection\obj\Debug\net6.0\NameValueCollection.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\NameValueCollection\obj\Debug\net6.0\ref\NameValueCollection.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\NameValueCollection\obj\Debug\net6.0\NameValueCollection.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\NameValueCollection\obj\Debug\net6.0\NameValueCollection.genruntimeconfig.cache

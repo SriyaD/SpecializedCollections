@@ -1,0 +1,15 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\HybridDictioanryDemo\bin\Debug\net6.0\HybridDictioanryDemo.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\HybridDictioanryDemo\bin\Debug\net6.0\HybridDictioanryDemo.deps.json
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\HybridDictioanryDemo\bin\Debug\net6.0\HybridDictioanryDemo.runtimeconfig.json
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\HybridDictioanryDemo\bin\Debug\net6.0\HybridDictioanryDemo.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\HybridDictioanryDemo\bin\Debug\net6.0\ref\HybridDictioanryDemo.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\HybridDictioanryDemo\bin\Debug\net6.0\HybridDictioanryDemo.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\HybridDictioanryDemo\obj\Debug\net6.0\HybridDictioanryDemo.csproj.AssemblyReference.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\HybridDictioanryDemo\obj\Debug\net6.0\HybridDictioanryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\HybridDictioanryDemo\obj\Debug\net6.0\HybridDictioanryDemo.AssemblyInfoInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\HybridDictioanryDemo\obj\Debug\net6.0\HybridDictioanryDemo.AssemblyInfo.cs
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\HybridDictioanryDemo\obj\Debug\net6.0\HybridDictioanryDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\HybridDictioanryDemo\obj\Debug\net6.0\HybridDictioanryDemo.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\HybridDictioanryDemo\obj\Debug\net6.0\ref\HybridDictioanryDemo.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\HybridDictioanryDemo\obj\Debug\net6.0\HybridDictioanryDemo.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\SpecializedCollections\HybridDictionary\HybridDictioanryDemo\obj\Debug\net6.0\HybridDictioanryDemo.genruntimeconfig.cache

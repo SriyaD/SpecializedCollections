@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f636018-12f6-47df-a221-1e34afa650f7": {
+      "ProjectGuid": "9f636018-12f6-47df-a221-1e34afa650f7",
+      "DisplayName": "HybridDictionary",
+      "ColorIndex": 0
+    },
+    "789199d8-de9f-4a75-a5e3-37a7a33c6c63": {
+      "ProjectGuid": "789199d8-de9f-4a75-a5e3-37a7a33c6c63",
+      "DisplayName": "HybridDictioanry",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e5b430c2-94be-44fb-9337-a1d56d5e8081": {
+      "ProjectGuid": "e5b430c2-94be-44fb-9337-a1d56d5e8081",
+      "DisplayName": "StringDictionary",
+      "ColorIndex": 2
+    },
+    "bbc3ef25-3d43-47be-b822-70f68c3319ba": {
+      "ProjectGuid": "bbc3ef25-3d43-47be-b822-70f68c3319ba",
+      "DisplayName": "ListDictionary",
+      "ColorIndex": 3
+    },
+    "be1c4350-b7b0-4bdf-81cd-c711b6134762": {
+      "ProjectGuid": "be1c4350-b7b0-4bdf-81cd-c711b6134762",
+      "DisplayName": "NameValueCollection",
+      "ColorIndex": 4
+    },
+    "94fe5707-13f8-48dc-9965-5e93c1a4d918": {
+      "ProjectGuid": "94fe5707-13f8-48dc-9965-5e93c1a4d918",
+      "DisplayName": "OrderedDictioanry",
+      "ColorIndex": 5
+    },
+    "84659508-d06a-4705-92a8-f3c71d13a4b2": {
+      "ProjectGuid": "84659508-d06a-4705-92a8-f3c71d13a4b2",
+      "DisplayName": "StringCollection",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

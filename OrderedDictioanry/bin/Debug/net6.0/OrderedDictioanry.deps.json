@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OrderedDictioanry/1.0.0": {
+        "runtime": {
+          "OrderedDictioanry.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderedDictioanry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
